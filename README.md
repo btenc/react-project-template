@@ -12,4 +12,6 @@
 
 - Proptypes (for type checking)
 
+- React-router-dom (for routing)
+
 - run `npm install`
