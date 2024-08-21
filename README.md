@@ -16,4 +16,6 @@
 
 - dotenv (environment variables)
 
+- Express (node backend framework)
+
 - run `npm install`
