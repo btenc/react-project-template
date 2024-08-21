@@ -18,4 +18,6 @@
 
 - Express (node backend framework)
 
+- express-async-handler (middleware for handling exceptions inside of async express route)
+
 - run `npm install`
