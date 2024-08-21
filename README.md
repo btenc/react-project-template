@@ -14,4 +14,6 @@
 
 - React-router-dom (for routing)
 
+- dotenv (environment variables)
+
 - run `npm install`
