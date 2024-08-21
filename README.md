@@ -18,6 +18,8 @@
 
 - Express (node backend framework)
 
+- EJS (templating engine)
+
 - express-async-handler (middleware for handling exceptions inside of async express route)
 
 - run `npm install`
